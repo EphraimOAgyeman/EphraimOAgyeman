@@ -1,4 +1,6 @@
 
+<img src="Anything Data.png" align="center" size="100px"/>
+
 <h1 align="left">Hi 👋, I'm Ephraim.</h1>
 <h3 align="left">I work with everything data, I'm interested in using data to solve issues all around us and in the workplace. I enjoy working with people to get the best.</h3>
 
